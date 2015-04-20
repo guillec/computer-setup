@@ -19,6 +19,22 @@ Step to reconfigure my comp
 
     brew install postgres
     
+* install churby
+
+    brew install chruby --HEAD
+    
+* install ruby-install
+
+    brew install ruby-install --HEAD
+    
+* update rubygems
+
+    sudo gem update --system
+    
+* install bundler
+
+    sudo gem install bundler
+    
 * install bash files
 
   command to install bash files
