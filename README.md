@@ -53,6 +53,14 @@ Step to reconfigure my comp
 
   cp .vimrc to ~
 
+* install zhell
+
+  git clone git://github.com/robbyrussell/oh-my-zsh.git ~/.oh-my-zsh
+  
+  install zhell config file: cp ~/.zshrc
+  
+  set zshell as default: chsh -s /bin/zsh
+
 * install terminal preferences (ProTerminal.terminal) manual?
 
 * install bash files
