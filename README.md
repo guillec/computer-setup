@@ -13,7 +13,7 @@ Step to reconfigure my comp
 
     brew install tmux
     
-    install config file
+    install config file .tmux-config
 
 * install postgres
 
@@ -34,7 +34,19 @@ Step to reconfigure my comp
 * install bundler
 
     sudo gem install bundler
-    
-* install bash files
 
-  command to install bash files
+* install gpg
+
+  brew install gpg
+  
+  install keys (.gnugpg directory)
+
+* install .vim directory
+
+* cp .vimrc to ~
+
+* install terminal preferences (ProTerminal.terminal)
+
+* install ssh keys (.ssh directory)
+
+* install bash files
