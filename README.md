@@ -35,6 +35,10 @@ Step to reconfigure my comp
 
     gem install bundler
 
+* install ack
+
+    brew install ack
+
 * install gpg
 
   brew install gpg
