@@ -41,12 +41,18 @@ Step to reconfigure my comp
   
   install keys (.gnugpg directory)
 
-* install .vim directory
-
-* cp .vimrc to ~
-
-* install terminal preferences (ProTerminal.terminal)
-
 * install ssh keys (.ssh directory)
 
+* install vim 
+
+  cp .vim directory to ~
+
+  cp .vimrc to ~
+
+* install terminal preferences (ProTerminal.terminal) manual?
+
 * install bash files
+
+  bash_profile
+  
+  bashrc
