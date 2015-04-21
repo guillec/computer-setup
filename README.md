@@ -33,7 +33,7 @@ Step to reconfigure my comp
     
 * install bundler
 
-    sudo gem install bundler
+    gem install bundler
 
 * install gpg
 
