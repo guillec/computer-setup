@@ -39,6 +39,10 @@ Step to setup comp
 * install ack
 
     brew install ack
+    
+* intall silversearch
+
+    brew install the_silver_searcher
 
 * install gpg
 
