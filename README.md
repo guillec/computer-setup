@@ -1,5 +1,6 @@
-# reconfigure-comp
-Step to reconfigure my comp
+# Computer Setup
+
+Step to setup comp
 
 * install brew: 
     
