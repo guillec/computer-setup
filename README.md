@@ -43,6 +43,14 @@ Step to setup comp
 * intall silversearch
 
     brew install the_silver_searcher
+    
+* install R
+
+    brew install Caskroom/cask/xquartz
+    
+    brew tap homebrew/science
+    
+    brew install r
 
 * install gpg
 
