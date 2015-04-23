@@ -60,6 +60,8 @@ Step to setup comp
 
 * install ssh keys (.ssh directory)
 
+   * might need to change permissions
+
 * install vim 
 
   cp .vim directory to ~
