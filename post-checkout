@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+require 'pg'
+require 'git'
+
+begin
+  branch = Git.open('.').current_branch
+  conn = PG.connect( dbname: 'postgres' )
+  conn.exec("CREATE DATABASE [db_name]_#{branch} WITH TEMPLATE [db_name]_master OWNER [owner];" )
+rescue => e
+  puts e
+end
