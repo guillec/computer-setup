@@ -2,6 +2,10 @@
 
 Step to setup comp
 
+* keypass:
+
+    https://www.keypassx.org/downloads
+
 * install brew: 
     
     ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
