@@ -4,7 +4,7 @@ Step to setup comp
 
 * keypass:
 
-    https://www.keypassx.org/downloads
+    https://www.keypassx.org/downloads (https://github.com/keepassx/keepassx)
 
 * install brew: 
     
