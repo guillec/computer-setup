@@ -23,6 +23,7 @@ Step to setup comp
 * install postgres
 
     brew install postgres
+    postgres -D /usr/local/var/postgres
     
 * install churby
 
